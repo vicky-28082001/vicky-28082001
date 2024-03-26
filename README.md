@@ -1,4 +1,4 @@
-![Header](github-header-image (1).png)
+![Header]()
 <h1 align="center">Hi 👋, I'm Vignesh.K</h1>
 <h3 align="center">Exploring Integration Pathways: Mulesoft Developer and Frontend Developer from India</h3>
 
